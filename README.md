@@ -78,8 +78,18 @@ $ export PICO_SDK_PATH=../../pico-sdk
 Then drag and drop the `hello_usb.uf2` binary into the RP2040 . Once, this is done the RP2040, will reboot and the code will start executing.
 
 - We will access the serial console to view the output. Navigate to your device manager to find out which `COM` port your board is connected to.  In my case it is connected to ```COM4```. Now , accessing the serial console through MobaXterm , we set the *baud rate* as 115200.
+
+![image](https://user-images.githubusercontent.com/114244849/194992247-f3074cb2-a7e2-4deb-a17f-1616f8a6de69.png)
+<br>
+
+![embedded 11](https://user-images.githubusercontent.com/114244849/194992590-9fd23189-7890-43cc-9986-519cb8a57e9e.JPG)
+<br>
+
 - The output is as follows:
-- ![WhatsApp Image 2022-10-10 at 23 26 09](https://user-images.githubusercontent.com/114244849/194990934-bbd40eaa-b0c5-4a87-95d8-52445decafc3.jpeg)
+<br>
+
+![embedded10](https://user-images.githubusercontent.com/114244849/194992634-edbcb586-80c2-4240-8921-6e7095538eda.JPG)
+
 
 
 
